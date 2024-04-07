@@ -36,12 +36,9 @@ La posada Galería Ana Frank cuenta con una estructura organizativa básica por 
 Hasta hace aproximadamente ocho años atrás, en el Sector Aguirre Municipio Montalbán-Carabobo recibían gran cantidad de turistas que venían en especial del centro del país, en virtud de que para esa época habían mas de quince posadas turísticas, varios Restaurantes, gran cantidad de artesanos que ofrecían a sus productos a orillas de carretera; estaba operativo el Parador Turístico Montalbán, entre otros atractivos turísticos que se complementaban con sus montañas y clima ideal que le daban la bienvenida a los visitantes. 
 
 Por otro lado, este sector cuenta con innumerables parcelamientos privados cuyos propietarios provienen en su gran mayoría de Caracas, Valencia, Maracay y ciudades aledañas que residen allí en temporadas vacacionales y fines de semanas, las cuales impulsaban la economía y daban vida al sector; sin embargo, esta realidad ha cambiado por el éxodo de venezolanos a otros países, que refleja tal situación en este municipio afectando el turismo y economía local.
-
 En este contexto, nos encontramos con la Posada Galería Ana Frank, emprendimiento turístico que esta atravesando problemas económicos, en virtud de la poca afluencia turística. El presente estudio constato que su propietario no hace un adecuado uso de sus redes sociales y mucho menos cuenta con una pagina web que lo ayude a captar clientes y ofrecer sus servicios, que le permita mantener operativa su posada y la misma le reporte ingresos económicos.
-
 De no tomar correctivos, su propietario tendrá que cerrar su emprendimiento, en virtud de que su situación actual casi no le alcanza ni siquiera para mantenerse operativo.
-
-Lao antes expuesto, se señala que desarrollar una pagina web haciendo uso de l programa JavaScript le ayudara a la Posada Ana Frank captar clientes y por ende mejorar su negocio.
+Lo antes expuesto, se señala que desarrollar una pagina web haciendo uso de l programa JavaScript le ayudara a la Posada Ana Frank captar clientes y por ende mejorar su negocio.
 
 
 
@@ -51,14 +48,47 @@ Lao antes expuesto, se señala que desarrollar una pagina web haciendo uso de l 
 
 **Objetivo General:**
 
-Estudiar el Programa JavaScript con el fin de desarrollar un Portal web para captar clientes a la Posada Galería Ana Frank
+El objetivo general es desarrollar una página web efectiva y atractiva utilizando JavaScript para la Posada Galería Ana Frank, con el fin de mejorar su visibilidad en línea, captar clientes y aumentar sus ingresos económicos. La página web debe reflejar la identidad y la propuesta de valor de la posada, incluyendo su ambiente familiar, su enfoque en las artes y la recreación, y su excelente servicio de alojamiento y confort. Además, la página web debe ser fácil de usar, accesible y compatible con diferentes dispositivos y navegadores, y debe incluir funcionalidades como reservas en línea, galerías de imágenes, formularios de contacto y redes sociales. El objetivo general se logrará al completar las siguientes tareas:
+
+(1) Realizar un análisis detallado de los requisitos de la página web, incluyendo la funcionalidad, la apariencia y la usabilidad.
+Diseñar una arquitectura de software sólida y escalable para la página web, utilizando las mejores prácticas de desarrollo de software.
+
+(2) Implementar la página web utilizando JavaScript, HTML y CSS, y garantizar su compatibilidad con diferentes dispositivos y navegadores.
+
+(3) Realizar pruebas unitarias y de integración para garantizar la calidad del software y la seguridad de la página web.
+Implementar medidas de seguridad y privacidad para proteger la información de los usuarios y garantizar la confiabilidad de la página web.
+
+(4) Realizar pruebas de usabilidad y accesibilidad para garantizar que la página web sea fácil de usar y accesible para todos los usuarios.
+
+(5) Realizar una capacitación adecuada al personal de la Posada Galería Ana Frank para garantizar un mantenimiento y actualización adecuados de la página web.
+
+(6) Realizar un seguimiento y monitoreo continuo de la página web para garantizar su rendimiento y estabilidad.
 
 **Objetivo Específicos:**
 
-1. Instalar el Programa JavaScript para empezar a desarrollar el diseño de la Pagina Web de la Posada.
-1. Recabar y ordenar información de la posada Ana Frank con el fin de cargarla en el sistema.
-1. Determinar con el propietario de la Posada, el tipo de información e imágenes que va a contener el sistema.
-1. Desarrollar el Portal Web de la Posada Galería Ana Frank**.**
+(1) Instalación y Configuración de JavaScript:
+Instalar y configurar el entorno de desarrollo de JavaScript necesario para el diseño y desarrollo de la página web de la Posada Galería Ana Frank.
+
+(2) Recopilación y Organización de Información:
+Recopilar y organizar la información relevante sobre la Posada Galería Ana Frank, incluyendo servicios ofrecidos, imágenes, historia y contacto, para cargarla de manera estructurada en la página web.
+
+(3) Definición de Contenido y Funcionalidades:
+Determinar junto al propietario de la posada el tipo de información, imágenes y funcionalidades que se incluirán en la página web, como reservas en línea, galerías de arte, información de contacto y redes sociales.
+
+(4) Desarrollo de la Página Web:
+Utilizar JavaScript para desarrollar la página web de la Posada Galería Ana Frank, asegurando un diseño atractivo, una navegación intuitiva y una experiencia de usuario satisfactoria.
+
+(5) Pruebas y Optimización:
+Realizar pruebas exhaustivas en la página web para garantizar su correcto funcionamiento, rendimiento y compatibilidad con diferentes dispositivos y navegadores. Optimizar el código y la experiencia de usuario según los resultados obtenidos.
+
+(6) Implementación de Medidas de Seguridad:
+Implementar medidas de seguridad y privacidad en la página web para proteger la información de los usuarios y garantizar la confiabilidad del sitio.
+
+(7) Capacitación del Personal:
+Brindar capacitación al personal de la Posada Galería Ana Frank para que puedan gestionar y mantener la página web de manera autónoma, incluyendo la actualización de contenido y la gestión de reservas en línea.
+
+(8) Seguimiento y Mejora Continua:
+Realizar un seguimiento continuo del rendimiento y la estabilidad de la página web, recopilando feedback de los usuarios y realizando mejoras según sea necesario para garantizar su eficacia a largo plazo.
 
 
    **1.4 JUSTIFICACION**
