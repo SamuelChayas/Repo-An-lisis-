@@ -16,26 +16,6 @@ Por todos los problemas encontrados se decidió a Diseñar e implementar un sist
 
 También se cita la investigación de Gaitán (2018), estudio para optar al Titulo Técnico Superior Universitario en Informática titulado “Diseño y Elaboración de una pagina web de información publicitaria para la galletera Italia C.A, ubicada en el Municipio Barinas Estado Barinas”. Esta investigación tiene como propósito principal el desarrollar una página web de información publicitaria para la galletera Italia. Esta enmarcado en la modalidad de proyecto factible, apoyando en una investigación de campo y descriptiva. La población y nuestro objetivo de estudio esta conformada por su seis (06) personas que trabajan directamente en los departamentos de Tecnología y Publicidad de la Galletera Italia C.A, lo que la convierte en una población de tipo finita en la medida que estos constituido por un determinado numero de elementos. Para el logro de los objetivos planteados, se seguirá como guía la metodología OOMDM (Método de diseño hipermedia orientado a objetos). Se utilizará como tecnología de recolección de datos la encuesta y como instrumento un cuestionario de diez (10) ítems.
 
-Marco Referencial
-
-Base de datos
-
-Patrones de diseño
-
-Página web
-
-Sistema operativo
-
-Captación de clientes
-
-
-
-
-
-
-
-
-
 
 
 
@@ -197,7 +177,52 @@ En el marco del proyecto, se establece un glosario de términos técnicos y conc
 9
 
 
+**TDD (Test-Driven Development) para la Posada Galería Ana Frank.**
 
+TDD es una metodología de desarrollo de software que consiste en escribir pruebas unitarias antes de escribir el código real. En el contexto de la Posada Galería Ana Frank, se podría aplicar TDD de la siguiente manera:
+
+Escribir pruebas unitarias: Escribir pruebas unitarias para cada función o módulo de la página web de la Posada Galería Ana Frank, asegurándose de que cada prueba cubra un caso de uso específico, como la validación de formularios de reserva, la carga de imágenes de la galería de arte y la visualización de la información de contacto.
+
+Escribir código: Escribir el código real para implementar la funcionalidad requerida, asegurándose de que pase todas las pruebas unitarias escritas en el paso anterior.
+
+Refactorizar: Refactorizar el código para mejorar su calidad, mantenibilidad y rendimiento, asegurándose de que siga pasando todas las pruebas unitarias.
+
+**Pruebas Unitarias para la Posada Galería Ana Frank:**
+Las pruebas unitarias son pruebas que verifican el comportamiento de una función o módulo específico del software. En el contexto de la Posada Galería Ana Frank, se podrían escribir pruebas unitarias para verificar el comportamiento de las siguientes funcionalidades:
+
+Formularios de reserva: Verificar que los formularios de reserva se envíen correctamente y que los datos ingresados sean válidos.
+Galería de arte: Verificar que las imágenes se carguen correctamente y que se muestren en la página web.
+
+Información de contacto: Verificar que la información de contacto se muestre correctamente y que los enlaces de redes sociales funcionen correctamente.
+
+**Pruebas de Aceptación para la Posada Galería Ana Frank:**
+Las pruebas de aceptación son pruebas que verifican que el software cumpla con los requisitos funcionales especificados. En el contexto de la Posada Galería Ana Frank, se podrían realizar pruebas de aceptación para verificar que el software cumpla con los siguientes requisitos:
+
+Diseño y estética: Verificar que la página web tenga un diseño atractivo y una estética coherente con la identidad de la posada.
+Usabilidad: Verificar que la página web sea fácil de usar y navegar, y que los usuarios puedan encontrar la información que buscan de manera rápida y sencilla.
+
+Funcionalidad: Verificar que todas las funcionalidades de la página web, como formularios de reserva, galería de arte y redes sociales, funcionen correctamente.
+
+**Pruebas de Integración para la Posada Galería Ana Frank:**
+Las pruebas de integración son pruebas que verifican que los diferentes módulos del software funcionen correctamente juntos. En el contexto de la Posada Galería Ana Frank, se podrían realizar pruebas de integración para verificar que los siguientes módulos funcionen correctamente juntos:
+
+Base de datos: Verificar que la base de datos se conecte correctamente al software y que se guarden y recuperen datos correctamente.
+
+Servidor: Verificar que el servidor se conecte correctamente al software y que se envíen y reciban datos correctamente.
+
+Cliente: Verificar que el cliente se conecte correctamente al software y que se muestre la información correctamente en el navegador.
+
+**Modo de Desarrollo para la Posada Galería Ana Frank:**
+El modo de desarrollo de la página web de la Posada Galería Ana Frank podría ser el siguiente:
+Planificación: Identificar los requisitos funcionales y no funcionales de la página web, y planificar el desarrollo en función de estos requisitos.
+
+Diseño: Diseñar la página web, teniendo en cuenta la estética, la usabilidad y la funcionalidad.
+
+Desarrollo: Desarrollar la página web utilizando TDD, pruebas unitarias, pruebas de aceptación y pruebas de integración.
+
+Implementación: Implementar la página web en el servidor y realizar pruebas de rendimiento y compatibilidad.
+
+Mantenimiento: Realizar mantenimiento y actualizaciones periódicas de la página web para garantizar su correcto funcionamiento y su relevancia.
 
 
 
